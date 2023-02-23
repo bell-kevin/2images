@@ -57,13 +57,13 @@ Take screenshots of the running project, and both alerts.
 Submission: Zip together the root folder and the 4 screenshots, and submit the single zipped folder.
 https://reactnative.dev/docs/environment-setup
 
-![p]()
+![p](https://github.com/bell-kevin/2images/blob/main/screenshots/1.PNG)
 
-![p]()
+![p](https://github.com/bell-kevin/2images/blob/main/screenshots/2.PNG)
 
-![p]()
+![p](https://github.com/bell-kevin/2images/blob/main/screenshots/3.PNG)
 
-![p]()
+![p](https://github.com/bell-kevin/2images/blob/main/screenshots/4.PNG)
 
 ## Storing Projects 
 
